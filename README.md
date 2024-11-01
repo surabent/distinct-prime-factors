@@ -9,9 +9,12 @@
 **Pull me**
 
 use this command in terminal
+
 `git clone https://github.com/surabent/distinct-prime-factors.git`
 
 **Open me**
+
+open the directory of the project by this command in terminal
 
 `cd distinct-prime-factors`
 
@@ -21,10 +24,12 @@ use this command in terminal
 
 after installation completed
 
-**Run the code**
+you could
+
+**1. Run the code**
 
 `npm run start`
 
-**Execute test using Jest**
+**2. Execute test using Jest**
 
 `npm run test`
